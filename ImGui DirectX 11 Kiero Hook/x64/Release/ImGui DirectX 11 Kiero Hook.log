@@ -1,0 +1,18 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx11.cpp
+  imgui_impl_win32.cpp
+  imgui_widgets.cpp
+  kiero.cpp
+  main.cpp
+  buffer.c
+  hde32.c
+  hde64.c
+  hook.c
+  trampoline.c
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 938 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  ImGui DirectX 11 Kiero Hook.vcxproj -> E:\VisualStudioProjects\cs2-cheat-internal\x64\Release\ImGui DirectX 11 Kiero Hook.dll
